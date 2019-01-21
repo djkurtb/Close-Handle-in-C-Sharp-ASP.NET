@@ -9,7 +9,7 @@ In this file you need to take care of following variable values.
 string environment = "C"; // C-Production, K-Development
 string cmd_root_path = "cd ../../"; // command to come to the root path
 string cmd_path = "cd users/kill_particular_process"; // command, where you need to store(output.txt)/run(Closing Handle) the Handle
-string path = @"C:\Users\kill_particular_process\"; // path to get find the handle id using file name from the output.txt file
+string path = @"C:\Users\kill_particular_process\"; // path to find the handle id using file name from the output.txt file
 ```
 
 ### How to Use ?
