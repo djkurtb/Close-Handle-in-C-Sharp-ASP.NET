@@ -3,7 +3,7 @@ Ability to close particular file instance running in WINWORD, Instead of killing
 
 **If multiple file is opened in server, and you want close particular file using filename instead of closing/killing entire WINWORD instance. This Repo wil help you todo so.**
 
-### File: close_handle.cs
+### Initial(One Time) Configuration need to do in file close_handle.cs
 In this file you need to take care of following variable values.
 ```csharp
 string environment = "C"; // C-Production, K-Development
