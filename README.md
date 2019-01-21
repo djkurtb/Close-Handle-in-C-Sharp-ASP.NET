@@ -18,4 +18,6 @@ you can use the class file by invoking where you want and you can use the below 
 bool response = close_handle.closeHandle("1.docx");
 ```
 
+More Information about Microsoft Handle: https://github.com/manobalas/Close-Handle-in-C-Sharp-ASP.NET/wiki
+
 For More Info: Contact Over E-Mail manobala.s@hotmail.com
