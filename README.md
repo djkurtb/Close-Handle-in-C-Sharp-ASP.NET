@@ -11,3 +11,11 @@ string cmd_root_path = "cd ../../"; // command to come to the root path
 string cmd_path = "cd users/kill_particular_process"; // command, where you need to store(output.txt)/run(Closing Handle) the Handle
 string path = @"C:\Users\kill_particular_process\"; // path to get find the handle id using file name from the output.txt file
 ```
+
+### How to Use ?
+you can use the class file by invoking where you want and you can use the below code
+```csharp
+bool response = close_handle.closeHandle("1.docx");
+```
+
+For More Info: Contact Over E-Mail manobala.s@hotmail.com
